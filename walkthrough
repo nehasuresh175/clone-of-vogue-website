@@ -1,0 +1,45 @@
+Vogue-Inspired Fashion Magazine Website
+I have successfully designed and built a fully functional web application inspired by Vogue India, featuring a minimalist luxury editorial layout. The project was built using React and Vite.
+
+Design Architecture
+1. Luxury Typography
+To achieve the magazine aesthetic, the typography pairs Playfair Display (serif) for the elegant headlines and Inter (sans-serif) for clean, minimalist body text and micro-copy (such as navigation links and categories).
+
+2. Core Elements
+Minimalist Navigation: A sophisticated header with a centered, large serif logo, bordered by thin dividers, and a wide-spaced uppercase navigation menu.
+Hero Section: A dramatic hero banner featuring a couture fashion model image, elevated by a sophisticated editorial headline and an excerpt.
+Editorial Card Grid: A responsive grid system featuring multiple editorial sections:
+Celebrity Portraits
+Runway Fashion
+Beauty Articles
+Culture Stories
+Magazine-Style Layout: Incorporating extensive whitespace (negative space), balanced padding, delicate borders, and clean alignment for a true "print-to-digital" experience.
+3. Generated Assets
+High-resolution images were custom-generated for this assignment to mimic a high-end fashion shoot:
+
+Hero Fashion Model
+Review
+Hero Fashion Model
+Celebrity Portrait
+Review
+Celebrity Portrait
+Runway Fashion
+Review
+Runway Fashion
+Beauty Article
+Review
+Beauty Article
+Culture Story
+Review
+Culture Story
+Verification
+Clean and responsive React implementation.
+Successfully built via Vite (npm run build).
+Functional on modern browsers using npm run dev in the project directory.
+How to Test
+You can start the local development server to test the design dynamically:
+
+powershell
+cmd /c "cd C:\Users\Neha\.gemini\antigravity\scratch\vogue-clone && npm run dev"
+Or open a terminal, navigate to C:\Users\Neha\.gemini\antigravity\scratch\vogue-clone, and run npm run dev.
+
